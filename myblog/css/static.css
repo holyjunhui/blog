@@ -64,6 +64,7 @@
 
 .header2 h1{
 	font-size: 30px;
+	margin-bottom: 10px;
 
 }
 .header1{
@@ -85,6 +86,13 @@
 	padding:20px;
 	margin-right: auto;
 	margin-left: auto;
+}
+i {
+	padding-right: 8px;
+}
+.main section p {
+	padding-left: 30px;
+	line-height: 20px;
 }
 .main h1{
 	font-size: 25px;
